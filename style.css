@@ -1,0 +1,67 @@
+body{
+    font-family: "Sora";
+    background-color: #fafaf9;
+     
+}
+
+
+
+img{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 345px;
+    height: 152px;
+    border-radius: 10px;
+}
+
+h5{
+    width: 25%;
+    text-align: center;
+    background-color: #E6D6FC;
+    font-size: 10px;
+    margin-left: 10px; 
+    border-radius: 15px;
+    padding: 3px;
+    color: #883AE1;
+}
+
+hr{
+    color: #6C727F; 
+    width: 100%;
+}
+
+
+
+#card{
+    display: flexbox;
+    width: 370px;
+    padding: 5px;
+    box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-left: 40%;
+    margin-right: 60%;
+    margin-top: 10%;
+
+}
+
+#description{ 
+    width: 350px;
+    padding-left: 10px;
+    font-size: 14px;
+    text-align: left;
+    color: #6C727F;
+}
+
+#title{
+    padding-left: 10px;
+    font-size: 18px;
+    text-align: left;
+}
+
+
+#footer{
+    font-size: 12px;
+    margin-left: 15px;
+    color: #6C727F;
+}
